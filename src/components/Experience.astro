@@ -1,0 +1,30 @@
+---
+import ExperienceItem from "./ExperienceItem.astro";
+const EXPERIENCE = [
+  {
+    date: "Currently...",
+    title: "Tech Lead",
+    company: "A Space 2 Grow",
+    description:
+      "Led the design and development of the A Space 2 Grow website using Next.js. Coordinated the team, optimized performance and ensured high code quality, while mentoring developers on best practices and version control with Git.",
+    link: "https://aspace2grow.wordpress.com/",
+  },
+  {
+    date: "Sep 2022 - Sep 2024",
+    title: "Junior Software Engineer",
+    company: "Minsait an Indra Company",
+    description:
+      "Responsible for the design and development of web applications and RESTful APIs using Java, Spring Boot and Hibernate. Achieved 95% application reliability and 100% test coverage with Selenium and Jasper Reports. Led CI/CD improvements and mentored teams on Git, SQL and backend best practices.",
+  },
+];
+---
+
+<ol class="relative mt-16">
+  {
+    EXPERIENCE.map((experience) => (
+      <li class="">
+        <ExperienceItem {...experience} />
+      </li>
+    ))
+  }
+</ol>
