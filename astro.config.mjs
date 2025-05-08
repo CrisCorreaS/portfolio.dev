@@ -3,8 +3,10 @@ import tailwind from "@astrojs/tailwind"
 
 import robotsTxt from "astro-robots-txt"
 
-// https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), robotsTxt()],
-  site: 'https://portfolio/'
-})
+  site: 'https://CrisCorreaS.github.io/portfolio.dev/',
+  build: {
+    base: '/portfolio.dev/'
+  },
+});
