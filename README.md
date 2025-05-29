@@ -9,13 +9,13 @@
 
 ![Portfolio Image](assets/portfolio.png)
 
-Welcome to my personal portfolio! This project showcases my skills, previous work, and provides a glimpse into my creative process. Built with **Astro** and styled using **Tailwind CSS**, the site is designed to be fast, responsive and easy to maintain.
+Welcome to my personal dev portfolio! This project showcases my skills, previous work and provides a glimpse into my creative process. Built with **Astro** and styled using **Tailwind CSS**, the site is designed to be fast, responsive and easy to maintain.
 
 ## ✨ Features
 
 - **Modern Design:** Utilises the flexibility of Tailwind CSS for styling and a clean layout.
 - **Fast Performance:** Leveraging Astro's ability to optimise and deliver minimal JavaScript for a fast loading experience.
-- **Responsive:** The design is fully responsive, ensuring a great experience across desktop, tablet, and mobile devices.
+- **Responsive:** The design is fully responsive, ensuring a great experience across desktop, tablet and mobile devices.
 - **SEO Optimised:** Astro and Tailwind's built-in best practices make SEO an integral part of the project, improving visibility in search engines.
 
 ## 🛠️ Technologies Used
@@ -48,7 +48,7 @@ To run this project locally, you'll need to have **Node.js** installed on your m
 
 
 ## 🚀 Deployment
-This portfolio can easily be deployed to various platforms such as Vercel, Netlify, or any static hosting provider.
+This portfolio can easily be deployed to various platforms such as Vercel, Netlify or any static hosting provider.
 
 To deploy on Vercel:
 
@@ -62,7 +62,7 @@ Feel free to fork and customise this repository. To make changes to the styling,
 This portfolio wouldn't have been possible without the valuable resources and support from [MiduDev](https://github.com/midudev). A big thank you for the guidance and inspiration!
 
 ## 🤝 Contributing
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. I welcome suggestions for improvements, new features, or bug fixes.
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. I welcome suggestions for improvements, new features or bug fixes.
 
 ## 📜 License
 This project is licensed under the **Creative Commons Corporation** license.
